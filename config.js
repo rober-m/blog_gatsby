@@ -4,12 +4,11 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Robertino Martinez',
-  subtitle:
-    'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Blog and personal website of Robertino Martinez.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -29,9 +28,10 @@ module.exports = {
     name: 'Robertino Martinez',
     photo: '/photo.jpg',
     bio:
-      'I am a civil engineer, programmer, and entrepreneur looking to make a living solving interesting problems and helping people.',
+      'Civil engineer, programmer, and entrepreneur looking to make a living solving interesting problems while helping people.',
     contacts: {
       email: 'robertinomartinezcosta@gmail.com',
+      // TODO: Cambiar email a uno basado en mi dominio.
       facebook: '',
       telegram: 'robertinomart',
       twitter: 'robertinomart',
