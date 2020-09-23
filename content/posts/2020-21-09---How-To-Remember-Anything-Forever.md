@@ -127,7 +127,7 @@ I use [Anki](https://apps.ankiweb.net/). It's the most popular software, it's [o
 
 You can start taking advantage of all this almost instantly and for free! Now I will go through all the steps needed to create and study the flashcards on Anki.
 
-<i>DISCLAIMER: This is an introductory guide. There are many details that I won't discuss in this article. Everything you need to know it's on the [Anki documentation](https://docs.ankiweb.net/#/), but if you have questions, you can send me an email at [hi@robertinomartinez.com](mailto:hi@robertinomartinez.com), ask at the [Anki community](https://www.reddit.com/r/Anki/), or look at a [YouTube tutorial](https://www.youtube.com/results?search_query=anki).</i>
+<i>DISCLAIMER: This is an introductory guide. There are many details that I won't discuss in this article. Everything you need to know it's on the [Anki documentation](https://docs.ankiweb.net/#/), but if you have questions, you can write to me a my [Twitter](http://twitter.com/robertinomart) or ask at the [Anki community](https://www.reddit.com/r/Anki/).</i>
 
 1. Open Anki.
    ![](/media/Anki_homeScreen_Empty.png)
@@ -168,7 +168,7 @@ For a complete explanation of how to write your flashcards, a safe place to star
 Now, we have a basic idea of how memory works, what can we do to remember forever, and how to apply this knowledge in practice.
 With your new powers, as long as you keep reviewing, you can remember anything forever!
 
-**What will you learn? Do you have any questions? Any article requests?** Let me know on [Twitter](http://twitter.com/robertinomart) or write to me at [hi@robertinomartinez.com](mailto:hi@robertinomartinez.com)!
+**What will you learn? Do you have any questions?** Let me know on [Twitter](http://twitter.com/robertinomart)!
 
 [subscribe]
 
