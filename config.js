@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://robertinomartinez.com',
   pathPrefix: '/',
   title: 'Robertino Martinez',
   subtitle: 'Blog and personal website of Robertino Martinez.',
-  copyright: '© All rights reserved.',
+  copyright: 'Robertino Martinez © All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: '',
@@ -28,10 +28,9 @@ module.exports = {
     name: 'Robertino Martinez',
     photo: '/photo.jpg',
     bio:
-      'Civil engineer, programmer, and entrepreneur looking to make a living solving interesting problems while helping people.',
+      'Civil engineer, programmer, and entrepreneur. Looking to make a living solving interesting problems while helping people.',
     contacts: {
-      email: 'robertinomartinezcosta@gmail.com',
-      // TODO: Cambiar email a uno basado en mi dominio.
+      email: 'hi@robertinomartinez.com',
       facebook: '',
       telegram: 'robertinomart',
       twitter: 'robertinomart',
