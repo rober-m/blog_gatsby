@@ -21,13 +21,13 @@
 
         &:hover,
         &:focus {
-          color: $color-primary;
-          border-bottom: 2px solid $color-primary;
+          color: $color-secondary;
+          border-bottom: 2px solid $color-secondary;
         }
 
         &--active {
           color: $color-base;
-          border-bottom: 2px solid $color-primary;
+          border-bottom: 2px solid $color-secondary;
         }
       }
     }

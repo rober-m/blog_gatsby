@@ -1,5 +1,5 @@
 ---
-title: How to remember anything forever
+title: 'Evidence-based learning: How to remember forever'
 date: '2020-09-21'
 template: 'post'
 draft: false
