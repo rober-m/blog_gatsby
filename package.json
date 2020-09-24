@@ -18,7 +18,7 @@
   },
   "repository": "",
   "author": "Robertino Martinez",
-  "license": "",
+  "license": "MIT",
   "keywords": [
     "gatsby",
     "graphql",
