@@ -1,7 +1,7 @@
 {
-  "version": "3.0.5",
-  "name": "gatsby-starter-lumen",
-  "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
+  "version": "0.0.1",
+  "name": "robertino-martinez-blog",
+  "description": "Blog and web page of Robertino Martinez",
   "main": "n/a",
   "scripts": {
     "develop": "yarn run clean && gatsby develop",
@@ -16,9 +16,9 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
-  "license": "MIT",
+  "repository": "",
+  "author": "Robertino Martinez",
+  "license": "",
   "keywords": [
     "gatsby",
     "graphql",
@@ -38,6 +38,8 @@
     "disqus"
   ],
   "dependencies": {
+    "@mdx-js/mdx": "^1.6.18",
+    "@mdx-js/react": "^1.6.18",
     "bluebird": "^3.7.2",
     "classnames": "^2.2.6",
     "codecov": "^3.7.2",
@@ -48,6 +50,7 @@
     "gatsby-plugin-flow": "^1.3.11",
     "gatsby-plugin-google-gtag": "^2.1.10",
     "gatsby-plugin-manifest": "^2.4.27",
+    "gatsby-plugin-mdx": "^1.2.40",
     "gatsby-plugin-netlify": "^2.3.13",
     "gatsby-plugin-netlify-cms": "^4.3.12",
     "gatsby-plugin-offline": "^3.2.26",
@@ -68,6 +71,7 @@
     "gatsby-source-filesystem": "^2.3.27",
     "gatsby-transformer-remark": "^2.8.32",
     "gatsby-transformer-sharp": "^2.5.14",
+    "gatsby-transformer-yaml": "^2.4.12",
     "invariant": "^2.2.4",
     "katex": "^0.12.0",
     "lodash": "^4.17.20",
