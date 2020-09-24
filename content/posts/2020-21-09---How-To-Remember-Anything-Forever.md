@@ -111,8 +111,6 @@ Examples of **active recall**:
 
 Awesome! Now I know about spaced repetition and active recall. But, how do I apply these concepts in real life?
 
-[subscribe]
-
 ## How to apply all this in real life
 
 This subject can be a complex one, and I know that you want the final answer. So here it is:
@@ -170,8 +168,6 @@ Now, we have a basic idea of how memory works, what can we do to remember foreve
 With your new powers, as long as you keep reviewing, you can remember anything forever!
 
 **What will you learn? Do you have any questions?** Let me know on [Twitter](http://twitter.com/robertinomart)!
-
-[subscribe]
 
 ## Resouces
 
