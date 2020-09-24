@@ -25,11 +25,11 @@ const Post = ({ post }: Props) => {
         All Articles
       </Link>
 
-      <ConvertKit tags={['blog','learning']}/>
-
       <div className={styles['post__content']}>
         <Content body={html} title={title} />
       </div>
+
+      <ConvertKit tags={['blog','learning']}/>
 
       <div className={styles['post__footer']}>
         <Meta date={date} />
