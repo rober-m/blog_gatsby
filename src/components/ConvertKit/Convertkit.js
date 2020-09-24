@@ -68,18 +68,27 @@ const SubscriptionForm = ({ tags }) => {
       <div
         style={{
           backgroundColor: '#111111',
-          paddingLeft: '8px',
-          paddingRight: '8px',
+          paddingLeft: '1rem',
+          paddingRight: '1rem',
           height: '50%',
+          borderRadius: '1rem 1rem 0 0',
         }}
       >
         <h2 style={{ paddingTop: '1rem' }}>Want more content like this?</h2>
-        <p style={{ paddingBottom: '0rem' }}>
+        <p style={{ marginBottom: '0', paddingBottom: '1rem' }}>
           I don't publish often, but when I do, you'll be the first to hear
           about it.
         </p>
       </div>
-      <div style={{ backgroundColor: '#222222', padding: '1rem' }}>
+      <div
+        style={{
+          backgroundColor: '#222222',
+          padding: '1rem',
+          borderRadius: '0 0 1rem 1rem',
+          height: '50%',
+          textAlign: 'center',
+        }}
+      >
         <input
           type='email'
           aria-label='Your email'
@@ -93,6 +102,7 @@ const SubscriptionForm = ({ tags }) => {
             borderRadius: '0.2rem',
             border: '0px',
             marginBottom: '1rem',
+            fontSize: '1rem',
           }}
         />
         {tags.map((tagName) => (
@@ -117,14 +127,34 @@ const SubscriptionForm = ({ tags }) => {
             fontWeight: 'bold',
             paddingTop: '1rem',
             paddingBottom: '1rem',
-            width: '90%',
+            width: '93%',
           }}
         >
           Get updates
         </button>
       </div>
-      {status === 'SUCCESS' && <p>Please go confirm your subscription!</p>}
-      {status === 'ERROR' && <p>Oops, try again.</p>}
+      {status === 'SUCCESS' && (
+        <p
+          style={{
+            paddingLeft: '1rem',
+            paddingRight: '1rem',
+            paddingBottom: '1rem',
+          }}
+        >
+          Thank you for signing up! Please, confirm your email.
+        </p>
+      )}
+      {status === 'ERROR' && (
+        <p
+          style={{
+            paddingLeft: '1rem',
+            paddingRight: '1rem',
+            paddingBottom: '1rem',
+          }}
+        >
+          Oops, something went wrong. Try again!
+        </p>
+      )}
     </form>
   );
 };
