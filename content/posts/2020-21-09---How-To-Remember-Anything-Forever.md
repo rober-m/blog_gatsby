@@ -4,7 +4,7 @@ date: '2020-09-21'
 template: 'post'
 draft: false
 slug: 'How-to-remember-anything-forever'
-category: 'Learning'
+category: 'Evidence-based learning'
 tags:
   - 'Learning'
   - 'Productivity'
