@@ -15,8 +15,8 @@ socialImage: '/media/image-2.jpg'
 - **HTML**,**CSS**,**JS** and **React** for web development.
 - **Electron** for Desktop development.
 
-While studying engineering, programming, and science in general, **I became obsessed with understanding how the brain works, learns, and how we, as learners, can optimize our behavior**. As a result, it led me to have a better overall performance on life itself, and I'm grateful for that.
+While studying engineering, programming, and science in general, **I became obsessed with understanding how the brain works, learns, and how we, as learners, can optimize our behavior**. As a result, it led me to have a better life, and I'm grateful for that.
 
-**I graduated as a Civil engineer** in February 2020 from the National University of Technology in Argentina by presenting as a thesis the analysis and development of an **LSTM neural network** that predicts the reservoir level of the San Roque damn several months in advance. Said model is now being used by the government to manage more efficiently the water resource and energy generation of the damn.
+**I graduated as a Civil engineer** in February 2020 from the National University of Technology in Argentina. I presented as a thesis the analysis and development of an **LSTM neural network** that predicts the reservoir level of the San Roque damn several months in advance. Said model is now being used by the government to manage more efficiently the water resource and energy generation of the damn.
 
-**Now, I'm immersing in the entrepreneurial world**; Reading books, starting businesses, and looking to solve interesting problems and help people. You can see what I'm currently working on the **projects section**, or contact me through any of the links below the menu.
+**Now, I'm immersing in the entrepreneurial world**; Reading books, starting businesses, and looking to solve interesting problems and help people. You can see what I'm currently working on the **[projects section](https://robertinomartinez.com/pages/projects)**, or contact me through any of the links below the menu.
