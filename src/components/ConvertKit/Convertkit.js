@@ -141,7 +141,7 @@ const SubscriptionForm = ({ tags }) => {
             paddingBottom: '1rem',
           }}
         >
-          Thank you for signing up! Please, confirm your email.
+          Success! Now check your email to confirm your subscription.
         </p>
       )}
       {status === 'ERROR' && (
