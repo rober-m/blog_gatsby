@@ -46,7 +46,6 @@ Our objective is to consolidate the memory for future use, and now that we under
 The brain is a fine-tuned biological machine, and as such, it needs maintenance to perform optimally. Here is a quick summary of the three main prerequisites for optimal learning:
 
 **Sleep quality and quantity** are [crucial to long-term memory consolidation](https://www.sciencedirect.com/science/article/pii/S0896627304005409). So much so that **there is no long-term memory if there is no sleep**.
-
 If you're not sure what to do, sleep for **8hs every night**, going to bed at the same time, and without a phone. Sounds counterintuitive but, **it's better to sleep well than to study more**. I will write more about this crucial subject in the future, but if you have the time, I'll recommend the book "Why we sleep" by Matthew Walker Ph.D. as a comprehensive source.
 
 **Exercise** is alarmingly good at potentiating memory, energy, and productivity in general. Half to an hour of intense activity before learning can make all the difference in [cognitive capacity](https://en.wikipedia.org/wiki/Cognition). On top of that, exercise reduces stress, anxiety, and depression<sup>[1]</sup>. Intense exercise does not mean a break-your-legs-running activity. With maintaining your heart rate reasonably high, it is enough. A more in-depth explanation can be found in the book "Spark" by John J. Ratey, or in future blog posts.

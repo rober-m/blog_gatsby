@@ -29,7 +29,7 @@ const Post = ({ post }: Props) => {
         <Content body={html} title={title} />
       </div>
 
-      <ConvertKit tags={['blog','learning']}/>
+      <ConvertKit tags={['blog', 'learning']} />
 
       <div className={styles['post__footer']}>
         <Meta date={date} />
