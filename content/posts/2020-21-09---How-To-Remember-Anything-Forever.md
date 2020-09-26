@@ -10,7 +10,7 @@ tags:
   - 'Productivity'
   - 'Memory'
 description: 'In this article, we discuss the basic idea of how memory works, what can we do to remember anything forever, and how to apply this knowledge in practice. What will you do with your new power?'
-socialImage: '/media/image-2.jpg'
+socialImage: '/media/Neurotransmission_SynapseSchematic.svg.png'
 ---
 
 In this article:
