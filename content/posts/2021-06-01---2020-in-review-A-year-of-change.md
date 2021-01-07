@@ -3,7 +3,7 @@ title: '2020 in review: A year of change'
 date: '2021-01-06'
 template: 'post'
 draft: false
-slug: '2020 in review: A year of change'
+slug: '2020-in-review:-A-year-of-change'
 category: 'Life'
 tags:
   - 'Life'
