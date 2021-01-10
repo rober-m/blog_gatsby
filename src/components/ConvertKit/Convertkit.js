@@ -74,10 +74,9 @@ const SubscriptionForm = ({ tags }) => {
           borderRadius: '1rem 1rem 0 0',
         }}
       >
-        <h2 style={{ paddingTop: '1rem' }}>Want more content like this?</h2>
+        <h2 style={{ paddingTop: '1rem' }}>My insights are your insights</h2>
         <p style={{ marginBottom: '0', paddingBottom: '1rem' }}>
-          I don't publish often, but when I do, you'll be the first to hear
-          about it.
+          Subscribe to my newsletter and be the first to know when I publish!
         </p>
       </div>
       <div
