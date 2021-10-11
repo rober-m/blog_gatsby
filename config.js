@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://robertinomartinez.com',
+  url: 'https://robertinom.com',
   pathPrefix: '/',
   title: 'Robertino Martinez',
   subtitle: 'Blog and personal website of Robertino Martinez.',
@@ -33,7 +33,7 @@ module.exports = {
       email: 'hi@robertinomartinez.com',
       facebook: '',
       telegram: 'robertinomart',
-      twitter: 'robertinomart',
+      twitter: 'robertinom_en',
       github: 'IIPatternII',
       rss: '',
       vkontakte: '',
